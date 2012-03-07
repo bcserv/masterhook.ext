@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="SourceMod SDK">
+      <UniqueIdentifier>{31958233-BB2D-4e41-A8F9-CE8A4684F436}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Libraries">
+      <UniqueIdentifier>{4e8b884a-b176-450b-8635-e39de17a73cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynDetours">
+      <UniqueIdentifier>{7bfbe438-dbf0-4856-bbb9-0c63405e1c79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynDetours\Argument Builder">
+      <UniqueIdentifier>{79ed971e-a016-4ee3-a897-60b04a1d0fcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynDetours\Callback System">
+      <UniqueIdentifier>{61117f1e-5946-4d7a-b6b7-4826c3a35830}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynDetours\Detour System">
+      <UniqueIdentifier>{3c4e45c7-3cec-4408-a18a-62cbce019903}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynDetours\Function Builder">
+      <UniqueIdentifier>{c398408d-3575-4cb7-9b63-786092f1d63f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynDetours\Helper">
+      <UniqueIdentifier>{c156a968-68a5-4658-a7a2-3cc2c901ab22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynDetours\Detour System\Conventions">
+      <UniqueIdentifier>{535a8137-d52b-489c-b793-f200fa73da4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynDetours\Detour System\Hook System">
+      <UniqueIdentifier>{ab74a257-f4cb-44f4-9821-1cc31aa33a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynDetours\Function Builder\Stack">
+      <UniqueIdentifier>{0508568e-a367-49e1-8cc3-efae9c4d66f7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\extension.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\sdk\smsdk_ext.cpp">
+      <Filter>SourceMod SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="..\natives.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\arg_class.cpp">
+      <Filter>DynDetours\Argument Builder</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\cpp_manager.cpp">
+      <Filter>DynDetours\Callback System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\conv_cdecl.cpp">
+      <Filter>DynDetours\Detour System\Conventions</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\conv_main.cpp">
+      <Filter>DynDetours\Detour System\Conventions</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\conv_stdcall.cpp">
+      <Filter>DynDetours\Detour System\Conventions</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\conv_thiscall.cpp">
+      <Filter>DynDetours\Detour System\Conventions</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\hook_handler.cpp">
+      <Filter>DynDetours\Detour System\Hook System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\asmbridge_class.cpp">
+      <Filter>DynDetours\Detour System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\detour_class.cpp">
+      <Filter>DynDetours\Detour System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\detourman_class.cpp">
+      <Filter>DynDetours\Detour System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\trampoline_class.cpp">
+      <Filter>DynDetours\Detour System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\func_stack.cpp">
+      <Filter>DynDetours\Function Builder\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\func_class.cpp">
+      <Filter>DynDetours\Function Builder</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\asm.cpp">
+      <Filter>DynDetours\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\dd_utils.cpp">
+      <Filter>DynDetours\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\memutils.cpp">
+      <Filter>DynDetours\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\symboltable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DynDetours\sourcemod_manager.cpp">
+      <Filter>DynDetours\Callback System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\rtti.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\typeconverter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\extension.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\sdk\smsdk_config.h">
+      <Filter>SourceMod SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\sdk\smsdk_ext.h">
+      <Filter>SourceMod SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\natives.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\compat_wrappers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\arg_class.h">
+      <Filter>DynDetours\Argument Builder</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\arg_types.h">
+      <Filter>DynDetours\Argument Builder</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\callback_manager.h">
+      <Filter>DynDetours\Callback System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\cpp_manager.h">
+      <Filter>DynDetours\Callback System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\conv_cdecl.h">
+      <Filter>DynDetours\Detour System\Conventions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\conv_interface.h">
+      <Filter>DynDetours\Detour System\Conventions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\conv_main.h">
+      <Filter>DynDetours\Detour System\Conventions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\conv_stdcall.h">
+      <Filter>DynDetours\Detour System\Conventions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\conv_thiscall.h">
+      <Filter>DynDetours\Detour System\Conventions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\hook_handler.h">
+      <Filter>DynDetours\Detour System\Hook System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\hook_types.h">
+      <Filter>DynDetours\Detour System\Hook System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\asmbridge_class.h">
+      <Filter>DynDetours\Detour System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\detour_class.h">
+      <Filter>DynDetours\Detour System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\detourman_class.h">
+      <Filter>DynDetours\Detour System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\register_class.h">
+      <Filter>DynDetours\Detour System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\trampoline_class.h">
+      <Filter>DynDetours\Detour System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\func_stack.h">
+      <Filter>DynDetours\Function Builder\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\func_class.h">
+      <Filter>DynDetours\Function Builder</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\func_types.h">
+      <Filter>DynDetours\Function Builder</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\asm.h">
+      <Filter>DynDetours\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\dd_utils.h">
+      <Filter>DynDetours\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\memutils.h">
+      <Filter>DynDetours\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\symboltable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DynDetours\sourcemod_manager.h">
+      <Filter>DynDetours\Callback System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\rtti.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\typeconverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\ASMJit\Build\Release\AsmJit.lib">
+      <Filter>Libraries</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

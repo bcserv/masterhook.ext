@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsmJit">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\Berni\dyndetours\ASMJit\Build\AsmJit.sln">
+</Property><Property Name="Date" Value="Sonntag, 07. November 2010">
+</Property><Property Name="Time" Value="00:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AsmJit.sln" Description="Datei wurde erfolgreich als &quot;C:\Users\Berni\dyndetours\ASMJit\Build\AsmJit.sln.old&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="ALL_BUILD" Source="ALL_BUILD.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\ALL_BUILD.vcproj'.">
+</Event><Event ErrorLevel="0" Project="ALL_BUILD" Source="ALL_BUILD.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\ALL_BUILD.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ALL_BUILD" Source="ALL_BUILD.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsmJit" Source="AsmJit.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\AsmJit.vcproj'.">
+</Event><Event ErrorLevel="0" Project="AsmJit" Source="AsmJit.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\AsmJit.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="AsmJit" Source="AsmJit.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="INSTALL" Source="INSTALL.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\INSTALL.vcproj'.">
+</Event><Event ErrorLevel="0" Project="INSTALL" Source="INSTALL.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\INSTALL.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="INSTALL" Source="INSTALL.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZERO_CHECK" Source="ZERO_CHECK.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\ZERO_CHECK.vcproj'.">
+</Event><Event ErrorLevel="0" Project="ZERO_CHECK" Source="ZERO_CHECK.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\ZERO_CHECK.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ZERO_CHECK" Source="ZERO_CHECK.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testcompiler" Source="testcompiler.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testcompiler.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testcompiler" Source="testcompiler.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testcompiler.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testcompiler" Source="testcompiler.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testcpu" Source="testcpu.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testcpu.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testcpu" Source="testcpu.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testcpu.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testcpu" Source="testcpu.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testdummy" Source="testdummy.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testdummy.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testdummy" Source="testdummy.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testdummy.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testdummy" Source="testdummy.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testfunclargeargs" Source="testfunclargeargs.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testfunclargeargs.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testfunclargeargs" Source="testfunclargeargs.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testfunclargeargs.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testfunclargeargs" Source="testfunclargeargs.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testjit" Source="testjit.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testjit.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testjit" Source="testjit.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testjit.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testjit" Source="testjit.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testjumpshort" Source="testjumpshort.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testjumpshort.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testjumpshort" Source="testjumpshort.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testjumpshort.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testjumpshort" Source="testjumpshort.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testjumptable" Source="testjumptable.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testjumptable.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testjumptable" Source="testjumptable.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testjumptable.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testjumptable" Source="testjumptable.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testmemorymanager" Source="testmemorymanager.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testmemorymanager.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testmemorymanager" Source="testmemorymanager.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testmemorymanager.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testmemorymanager" Source="testmemorymanager.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testopcode" Source="testopcode.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testopcode.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testopcode" Source="testopcode.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testopcode.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testopcode" Source="testopcode.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testrewrite" Source="testrewrite.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testrewrite.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testrewrite" Source="testrewrite.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testrewrite.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testrewrite" Source="testrewrite.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testsetcc" Source="testsetcc.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testsetcc.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testsetcc" Source="testsetcc.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testsetcc.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testsetcc" Source="testsetcc.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="teststate" Source="teststate.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\teststate.vcproj'.">
+</Event><Event ErrorLevel="0" Project="teststate" Source="teststate.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\teststate.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="teststate" Source="teststate.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testtrampoline" Source="testtrampoline.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testtrampoline.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testtrampoline" Source="testtrampoline.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testtrampoline.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testtrampoline" Source="testtrampoline.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testvariables" Source="testvariables.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testvariables.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testvariables" Source="testvariables.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testvariables.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testvariables" Source="testvariables.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testvarmemalloc" Source="testvarmemalloc.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testvarmemalloc.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testvarmemalloc" Source="testvarmemalloc.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testvarmemalloc.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testvarmemalloc" Source="testvarmemalloc.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testvarspill" Source="testvarspill.vcproj" Description="Converting project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testvarspill.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testvarspill" Source="testvarspill.vcproj" Description="Done converting to new project file 'C:\Users\Berni\dyndetours\ASMJit\Build\testvarspill.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testvarspill" Source="testvarspill.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AsmJit.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="AsmJit.sln" Description="Converted">
+</Event></UpgradeLog>

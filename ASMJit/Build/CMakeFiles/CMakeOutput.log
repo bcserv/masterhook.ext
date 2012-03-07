@@ -1,0 +1,105 @@
+The system is: Windows - 6.1 - x86
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Berni/dyndetours/ASMJit/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec, Konfiguration: Debug Win32 ------
+1>Kompilieren...
+1>Microsoft (R) 32-Bit C/C++-Optimierungscompiler Version 15.00.30729.01 fÅr 80x86
+1>Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "_DEBUG" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:\Users\Berni\dyndetours\ASMJit\Build\CMakeFiles\CMakeTmp\Debug/cmTryCompileExec.pdb" /W3 /c /Zi /TC   /Zm1000
+1>   .\testCCompiler.c
+1>testCCompiler.c
+1>Manifest in Ressourcen wird kompiliert...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>VerknÅpfen...
+1>Das Manifest wird eingebettet...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Das Buildprotokoll wurde unter "file://c:\Users\Berni\dyndetours\ASMJit\Build\CMakeFiles\CMakeTmp\cmTryCompileExec.dir\Debug\BuildLog.htm" gespeichert.
+1>cmTryCompileExec - 0 Fehler, 0 Warnung(en)
+========== Erstellen: 1 erfolgreich, Fehler bei 0, 0 aktuell, 0 Åbersprungen ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Berni/dyndetours/ASMJit/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec, Konfiguration: Debug Win32 ------
+1>Kompilieren...
+1>Microsoft (R) 32-Bit C/C++-Optimierungscompiler Version 15.00.30729.01 fÅr 80x86
+1>Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "_DEBUG" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:\Users\Berni\dyndetours\ASMJit\Build\CMakeFiles\CMakeTmp\Debug/cmTryCompileExec.pdb" /W3 /c /Zi /TC   /Zm1000
+1>   "..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
+1>CMakeCCompilerABI.c
+1>Manifest in Ressourcen wird kompiliert...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>VerknÅpfen...
+1>Das Manifest wird eingebettet...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Das Buildprotokoll wurde unter "file://c:\Users\Berni\dyndetours\ASMJit\Build\CMakeFiles\CMakeTmp\cmTryCompileExec.dir\Debug\BuildLog.htm" gespeichert.
+1>cmTryCompileExec - 0 Fehler, 0 Warnung(en)
+========== Erstellen: 1 erfolgreich, Fehler bei 0, 0 aktuell, 0 Åbersprungen ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Berni/dyndetours/ASMJit/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec, Konfiguration: Debug Win32 ------
+1>Kompilieren...
+1>Microsoft (R) 32-Bit C/C++-Optimierungscompiler Version 15.00.30729.01 fÅr 80x86
+1>Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "_DEBUG" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /EHsc /RTC1 /MDd /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:\Users\Berni\dyndetours\ASMJit\Build\CMakeFiles\CMakeTmp\Debug/cmTryCompileExec.pdb" /W3 /c /Zi /TP   /Zm1000
+1>   .\testCXXCompiler.cxx
+1>testCXXCompiler.cxx
+1>Manifest in Ressourcen wird kompiliert...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>VerknÅpfen...
+1>Das Manifest wird eingebettet...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Das Buildprotokoll wurde unter "file://c:\Users\Berni\dyndetours\ASMJit\Build\CMakeFiles\CMakeTmp\cmTryCompileExec.dir\Debug\BuildLog.htm" gespeichert.
+1>cmTryCompileExec - 0 Fehler, 0 Warnung(en)
+========== Erstellen: 1 erfolgreich, Fehler bei 0, 0 aktuell, 0 Åbersprungen ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Berni/dyndetours/ASMJit/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec, Konfiguration: Debug Win32 ------
+1>Kompilieren...
+1>Microsoft (R) 32-Bit C/C++-Optimierungscompiler Version 15.00.30729.01 fÅr 80x86
+1>Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "_DEBUG" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /EHsc /RTC1 /MDd /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:\Users\Berni\dyndetours\ASMJit\Build\CMakeFiles\CMakeTmp\Debug/cmTryCompileExec.pdb" /W3 /c /Zi /TP   /Zm1000
+1>   "..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
+1>CMakeCXXCompilerABI.cpp
+1>Manifest in Ressourcen wird kompiliert...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>VerknÅpfen...
+1>Das Manifest wird eingebettet...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Das Buildprotokoll wurde unter "file://c:\Users\Berni\dyndetours\ASMJit\Build\CMakeFiles\CMakeTmp\cmTryCompileExec.dir\Debug\BuildLog.htm" gespeichert.
+1>cmTryCompileExec - 0 Fehler, 0 Warnung(en)
+========== Erstellen: 1 erfolgreich, Fehler bei 0, 0 aktuell, 0 Åbersprungen ==========
+
+

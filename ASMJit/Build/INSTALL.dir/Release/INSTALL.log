@@ -1,0 +1,37 @@
+﻿Der Buildvorgang wurde am 07.11.2010 00:38:23 gestartet.
+     1>Projekt "C:\Users\Berni\dyndetours\ASMJit\Build\INSTALL.vcxproj" auf Knoten "3", build Ziel(e).
+     1>InitializeBuildStatus:
+         "INSTALL.dir\Release\INSTALL.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       PostBuildEvent:
+         "C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -DBUILD_TYPE=Release\ -P cmake_install.cmake
+         if errorlevel 1 goto VCReportError
+         :VCEnd
+         -- Install configuration: "Release\"
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/AsmJit.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/Assembler.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/AssemblerX86X64.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/Build.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/Compiler.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/CompilerX86X64.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/Config.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/CpuInfo.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/Defs.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/DefsX86X64.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/Lock.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/Logger.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/LoggerX86X64.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/MemoryManager.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/Serializer.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/SerializerX86X64.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/Util.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/VirtualMemory.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/WarningsPop.h
+         -- Up-to-date: C:/Program Files (x86)/AsmJit/include/AsmJit/WarningsPush.h
+       FinalizeBuildStatus:
+         Die Datei "INSTALL.dir\Release\INSTALL.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "INSTALL.dir\Release\INSTALL.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Users\Berni\dyndetours\ASMJit\Build\INSTALL.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:00.32

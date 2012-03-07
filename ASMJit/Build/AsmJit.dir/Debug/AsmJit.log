@@ -1,0 +1,66 @@
+﻿Der Buildvorgang wurde am 07.11.2010 00:47:11 gestartet.
+     1>Projekt "C:\Users\Berni\dyndetours\ASMJit\Build\AsmJit.vcxproj" auf Knoten "3", build Ziel(e).
+     1>InitializeBuildStatus:
+         "AsmJit.dir\Debug\AsmJit.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       CustomBuild:
+         Building Custom Rule C:/Users/Berni/dyndetours/ASMJit/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Berni\dyndetours\ASMJit\Build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Berni\dyndetours\ASMJit /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D AsmJit_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"AsmJit.dir\Debug\\" /Fd"C:\Users\Berni\dyndetours\ASMJit\Build\Debug/AsmJit.pdb" /Gd /TP /analyze- /errorReport:prompt ..\AsmJit\AssemblerX86X64.cpp ..\AsmJit\CompilerX86X64.cpp ..\AsmJit\CpuInfo.cpp ..\AsmJit\Defs.cpp ..\AsmJit\Lock.cpp ..\AsmJit\Logger.cpp ..\AsmJit\LoggerX86X64.cpp ..\AsmJit\LoggerX86X64Dump.cpp ..\AsmJit\MemoryManager.cpp ..\AsmJit\SerializerX86X64.cpp ..\AsmJit\Util.cpp ..\AsmJit\VirtualMemory.cpp  /Zm1000 
+         AssemblerX86X64.cpp
+         CompilerX86X64.cpp
+         CpuInfo.cpp
+         Defs.cpp
+         Lock.cpp
+         Logger.cpp
+         LoggerX86X64.cpp
+         LoggerX86X64Dump.cpp
+         MemoryManager.cpp
+         SerializerX86X64.cpp
+         Util.cpp
+         VirtualMemory.cpp
+         Code wird generiert...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"AsmJit.dir\Debug\AsmJit.dll.embed.manifest.res" AsmJit.dir\Debug\AsmJit_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.dll" /VERSION:"0.0" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"AsmJit.dir\Debug\AsmJit.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.lib" /MACHINE:X86 /DLL AsmJit.dir\Debug\AsmJit.dll.embed.manifest.res
+         AsmJit.dir\Debug\AssemblerX86X64.obj
+         AsmJit.dir\Debug\CompilerX86X64.obj
+         AsmJit.dir\Debug\CpuInfo.obj
+         AsmJit.dir\Debug\Defs.obj
+         AsmJit.dir\Debug\Lock.obj
+         AsmJit.dir\Debug\Logger.obj
+         AsmJit.dir\Debug\LoggerX86X64.obj
+         AsmJit.dir\Debug\LoggerX86X64Dump.obj
+         AsmJit.dir\Debug\MemoryManager.obj
+         AsmJit.dir\Debug\SerializerX86X64.obj
+         AsmJit.dir\Debug\Util.obj
+         AsmJit.dir\Debug\VirtualMemory.obj  /STACK:10000000 /machine:X86 /debug 
+            Bibliothek "C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.lib" und Objekt "C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.exp" werden erstellt.
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"AsmJit.dir\Debug\AsmJit.dll.embed.manifest" /manifest AsmJit.dir\Debug\AsmJit.dll.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"AsmJit.dir\Debug\AsmJit.dll.embed.manifest.res" AsmJit.dir\Debug\AsmJit_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.dll" /VERSION:"0.0" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"AsmJit.dir\Debug\AsmJit.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.lib" /MACHINE:X86 /DLL AsmJit.dir\Debug\AsmJit.dll.embed.manifest.res
+         AsmJit.dir\Debug\AssemblerX86X64.obj
+         AsmJit.dir\Debug\CompilerX86X64.obj
+         AsmJit.dir\Debug\CpuInfo.obj
+         AsmJit.dir\Debug\Defs.obj
+         AsmJit.dir\Debug\Lock.obj
+         AsmJit.dir\Debug\Logger.obj
+         AsmJit.dir\Debug\LoggerX86X64.obj
+         AsmJit.dir\Debug\LoggerX86X64Dump.obj
+         AsmJit.dir\Debug\MemoryManager.obj
+         AsmJit.dir\Debug\SerializerX86X64.obj
+         AsmJit.dir\Debug\Util.obj
+         AsmJit.dir\Debug\VirtualMemory.obj  /STACK:10000000 /machine:X86 /debug 
+            Bibliothek "C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.lib" und Objekt "C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.exp" werden erstellt.
+         AsmJit.vcxproj -> C:\Users\Berni\dyndetours\ASMJit\Build\Debug\AsmJit.dll
+       FinalizeBuildStatus:
+         Die Datei "AsmJit.dir\Debug\AsmJit.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "AsmJit.dir\Debug\AsmJit.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Users\Berni\dyndetours\ASMJit\Build\AsmJit.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:06.46
